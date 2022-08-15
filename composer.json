@@ -1,0 +1,11 @@
+{
+  "name": "zenithies/sample-composer-library",
+  "require": {
+        "zordius/lightncandy": ">=1.2"
+  },
+  "autoload": {
+    "files": [
+      "src/lib/Zenithies/core.php"
+    ]
+  }
+}
